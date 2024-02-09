@@ -1,5 +1,5 @@
-let gamenum=39;
-let usernum=prompt("guess the number:");
+let gamenum=23;
+let usernum=prompt("guess the number(0-50):");
 while(usernum != gamenum){
     usernum=prompt("you enterd wrong number.guess right number");
 }
